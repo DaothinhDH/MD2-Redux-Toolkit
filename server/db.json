@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "ProductName": "Cam ngọt",
+      "Price": 10000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 3,
+      "ProductName": "Dưa hấu",
+      "Price": 15000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 4,
+      "ProductName": "Cherry",
+      "Price": 18000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 6,
+      "ProductName": "Dâu tây",
+      "Price": 13000,
+      "From": "Hà Nội"
+    }
+
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "Dương Việt Anh",
+      "gender": 0,
+      "dateOfBirth": "2023-09-11",
+      "image": ""
+    }
+  ],
+  "carts": [{
+    
+  }]
+}
+
